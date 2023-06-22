@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg2"
+    android:layout_margin="20dp"
+    tools:context=".chondronath_about">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:padding="10dp"
+        android:text="Chandranath Hill || চন্দ্রনাথ পাহাড়"
+        android:background="#add8e6"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="80dp"
+        android:text="দর্শনীয় স্থান (Tourist Spot):"
+        android:textColor="#000000"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="115dp"
+        android:text="চন্দ্রনাথ পাহাড় (Chandranath Hill) চট্টগ্রাম এর সীতাকুণ্ড বাজার থেকে ৪কি.মি. পূর্বে অবস্থিত একটি পাহাড় যা দর্শনার্থীদের কাছে ট্রেকিং এর জন্যে অন্যতম জনপ্রিয় একটা রুট।
+প্রায় ১ ঘণ্টা – ১.৫ ঘণ্টা ট্রেকের পর দেখা মিলবে শ্রী শ্রী বিরূপাক্ষ মন্দির এর। প্রতিবছর এই মন্দিরে শিবরাত্রি তথা শিবর্তুদশী তিথিতে বিশেষ পূজা হয়।
+চন্দ্রনাথ পাহাড়ের চূড়ায় দাঁড়িয়ে আপনি দেখতে পাবেন একদিকে সমুদ্র আর অন্য দিকে পাহাড়ের নির্জনতা। মুগ্ধ হয়ে তাকিয়ে থাকবেন উঁচু-নিচু পাহাড়ের সবুজ গাছপালার দিকে। প্রশান্তিতে জুড়িয়ে যাবে চোখ। "
+        android:textColor="#000000"
+        android:textSize="15sp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="300dp"
+        android:text="রাত যাপন (Night Stay Price):"
+        android:textColor="#000000"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="335dp"
+        android:text=" সীতাকুন্ড কাঁচা বাজার এলাকায় এবং সীতাকুণ্ড থানা সংলগ্ন এলাকায় মোটামুটি মানের অল্পকিছু আবাসিক হোটেল রয়েছে যাদের মধ্যে হোটেল কম্পোট জোন, জলসা, নিউ সৌদিয়া, সৌদিয়া, সায়মন উল্লেখযোগ্য। হোটেল কম্পোট জোন, জলসা, নিউ সৌদিয়া অপেক্ষাকৃত নতুন এবং মান ভালো। এদের রুম ভাড়া এসি ডাবল বেড – ১০০০ টাকা এবং নন এসি ৫০০-৭০০ টাকার মধ্যে।
+এছাড়া চট্টগ্রাম শহরের যে কোনো মানের হোটেল বা রেস্টুরেন্ট পেয়ে যাবেন। থাকা-খাওয়ার জন্য চট্টগ্রাম শহরে বিভিন্ন মান ও দামের আবাসিক হোটেল-মোটেলের সুব্যবস্থা রয়েছে। এ ছাড়া সীতাকুণ্ড অথবা ভাটিয়ারীতে থাকার জন্য আবাসিক সুব্যবস্থা রয়েছে।"
+        android:textColor="#000000"
+        android:textSize="15sp"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="610dp">
+        <Button
+            android:id="@+id/back20"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_margin="10dp"
+            android:layout_marginBottom="10dp"
+            android:backgroundTint="#7fffd4"
+            android:text="Back"
+            android:textColor="@color/black" />
+    </LinearLayout>
+
+</RelativeLayout>

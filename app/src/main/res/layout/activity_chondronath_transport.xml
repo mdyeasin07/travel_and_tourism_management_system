@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_margin="20dp"
+    android:background="@drawable/bg2"
+    tools:context=".chondronath_transport">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="15dp"
+        android:layout_marginBottom="15dp"
+        android:background="#add8e6"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="Chandranath Hill || চন্দ্রনাথ পাহাড়"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:text="যাতায়াত ব্যবস্থা (Transportation system):"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="115dp"
+        android:text="চন্দ্রনাথ পাহাড় কিভাবে যাবেনঃ
+ঢাকা থেকে এসি, ননএসি বাস ছাড়ে সায়দাবাদ বাস ষ্টেশন থেকে। আরামদায়ক এবং নির্ভর যোগ্য সার্ভিস গুলো হল এস.আলম, সৌদিয়া, গ্রীনলাইন, সিল্ক লাইন, সোহাগ, বাগদাদ এক্সপ্রেস, ইউনিক প্রভূতি। সবগুলো বাসই সীতাকুণ্ডে থামে। চট্টগ্রাম থেকে বাসগুলো মাদারবাড়ী, কদমতলী বাসষ্টেশন থেকে ছাড়ে। তা ছাড়াও অলঙ্কার থেকে কিছু ছোট গাড়ী ছাড়ে।
+এছাড়া ঢাকা থেকে ছেড়েঁ আসা দ্রুতগামী ট্রেন “ঢাকা মেইল” সীতাকুণ্ডে থামে।
+সীতাকুন্ড বাজার থেকে CNG (জনপ্রতি ২০/-) নামিয়ে দিবে পাহাড় এর প্রবেশ ফটকে। এখান থেকেই ট্রেকিং এর শুরু। সাধারণত ঘণ্টা দেড়েক সময় লাগবে পাহাড়ের চূড়ায় পৌছাতে। "
+        android:textColor="#000000"
+        android:textSize="20sp"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="620dp">
+        <Button
+            android:id="@+id/back21"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#7fffd4"
+            android:text="Back"
+            android:layout_margin="10dp"
+            android:textColor="@color/black" />
+
+    </LinearLayout>
+
+</RelativeLayout>
