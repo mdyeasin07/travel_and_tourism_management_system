@@ -5,7 +5,7 @@ Travel and Tourism Management System software simplifies travel agency operation
 
 <img src="https://github.com/mdyeasin07/travel_and_tourism_management_system/assets/122235266/3b96d29c-ff96-46b4-9b7b-6ede2d4f806e" width="280" height="567">
 <img src="https://github.com/mdyeasin07/travel_and_tourism_management_system/assets/122235266/55b18639-b8a8-4288-884c-4b283f817ba4" width="280" height="567">
-<img src="https://github.com/mdyeasin07/travel_and_tourism_management_system/assets/122235266/a04fc744-7e83-4017-9ea5-95010f2a004" width="280" height="567">
+
 <img src="https://github.com/mdyeasin07/travel_and_tourism_management_system/assets/122235266/56e419e7-9340-48a7-ae72-5f295458f39a" width="280" height="567">
 
 <img src="https://github.com/mdyeasin07/travel_and_tourism_management_system/assets/122235266/767c374d-a4b3-4796-8ff5-95cbbdbb0240" width="280" height="567">
