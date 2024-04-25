@@ -3,7 +3,7 @@
 Travel and Tourism Management System software simplifies travel agency operations by offering features like Tour planning, booking management and accounting. It automates processes, enhances efficiency, and improves customer service for businesses in the travel and tourism industry.
 # User Interfaces
 
-<img src="https://github.com/mdyeasin07/travel_and_tourism_management_system/assets/122235266/3b96d29c-ff96-46b4-9b7b-6ede2d4f806e" width="1080" height="1920">
+<img src="https://github.com/mdyeasin07/travel_and_tourism_management_system/assets/122235266/3b96d29c-ff96-46b4-9b7b-6ede2d4f806e" width="350" height="600">
 <img src="https://github.com/mdyeasin07/travel_and_tourism_management_system/assets/122235266/55b18639-b8a8-4288-884c-4b283f817ba4" width="1080" height="1920">
 <img src="https://github.com/mdyeasin07/travel_and_tourism_management_system/assets/122235266/3b96d29c-ff96-46b4-9b7b-6ede2d4f806e" width="1080" height="1920">
 <img src="https://github.com/mdyeasin07/travel_and_tourism_management_system/assets/122235266/56e419e7-9340-48a7-ae72-5f295458f39a" width="1080" height="1920">
